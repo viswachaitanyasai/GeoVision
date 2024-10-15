@@ -84,3 +84,11 @@ map_images/
 │
 └── ...
 ```
+### Results
+
+The model was trained for 5 epochs with the following results:
+
+- **Accuracy**: 87.5%
+- **Final Training Loss**: 0.1942
+- **Final Validation Loss**: 0.3274
+- **Final Error Rate**: 0.125
