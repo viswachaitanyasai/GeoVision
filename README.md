@@ -47,6 +47,8 @@ The dataset consists of urban maps from various cities across five countries:
 
 You can access the dataset via [Kaggle](https://www.kaggle.com/datasets/viswachaitanyasai/urban-country-maps).
 
+You can access the trained model via [Kaggle](https://www.kaggle.com/models/viswachaitanyasai/country-identifier)
+
 ## Project Setup
 
 ### Prerequisites
